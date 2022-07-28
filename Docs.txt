@@ -1,3 +1,3 @@
-Seal_TpTo(Number: <CORDNIATES>) --// Teleports your Character to the Given Cordinate
+Seal_Tp(Number: <CORDNIATES>) --// Teleports your Character to the Given Cordinate
 Seal_SpoofClient() --// Changes ur Name on ur Client Good for using in Showcases
 Seal_Chat(<STRING: MESSAGE>,<STRING: All OR PLAYERS NAME>) --// Makes the Player Chat or Private Message Someone
